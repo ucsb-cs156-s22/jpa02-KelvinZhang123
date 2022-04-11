@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-KelvinZhang123
 
 
 Repo: https://github.com/ucsb-cs156-s22/jpa02-KelvinZhang123
